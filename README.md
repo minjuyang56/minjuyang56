@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alswn0558@gmail.com)](mailto:alswn0558@gmail.com)
 	
 
-I'm a software engineer with a passion for creating innovative solutions. 
+I'm a #software engineer with a passion for creating innovative solutions. 
 
 🚀 My main focus is backend development using Node.js.
 
