@@ -7,17 +7,14 @@ I'm a <strong style="font-size: larger;">software engineer</strong> with a passi
 
 My past Github is <a href="https://github.com/alswn0558"> https://github.com/alswn0558 </a> 
 </br>
-🚀 I have ~</br>
-👉 Bachelor of Computer Science</br>
-👉 3 Different Internship</br>
-👉 2 years of Programing Instructor</br>
-👉 UC Irvine Exchange Fellowship student researcher</br> 
 
-📊 Here's a quick overview of my activity:
+🚀 I have ~</br>
+- 💻 Bachelor of Computer Science</br>
+- 🌆 3 Different Internship</br>
+- 🧑‍🏫 2 years of Programing Instructor</br>
+- 📚 UC Irvine Exchange Fellowship student researcher</br> 
 
 - 🔧 Most used language: TypeScript, Java, Python
-- 💻 I'm currently working on exciting personal projects!
-- 📚 I'm constantly learning and exploring new technologies.
 
 
 
