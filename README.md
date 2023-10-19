@@ -17,7 +17,7 @@ My past Github is <a href="https://github.com/alswn0558"> <img src="https://img.
 - 📚 I'm constantly learning and exploring new technologies.
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/minjuyang56)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuyang56&layout=compact)](https://github.com/minjuyang56)
 
 
 
