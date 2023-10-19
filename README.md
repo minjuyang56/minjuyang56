@@ -20,7 +20,11 @@ My past Github is <a href="https://github.com/alswn0558"> <img src="https://img.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME)
 
 
+
 Feel free to explore my repositories and reach out if you want to collaborate or discuss anything tech-related. 😄
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjuyang56&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **minjuyang56/minjuyang56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
