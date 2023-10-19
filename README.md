@@ -8,11 +8,11 @@ I'm a <strong style="font-size: larger;">software engineer</strong> with a passi
 My past Github is <a href="https://github.com/alswn0558"> https://github.com/alswn0558 </a> 
 </br>
 
-🚀 My main focus is backend development using Node.js.
+🚀 I developed my passion by working on a variety of tasks, including backend development, AWS pipeline construction, smart contracts, and hyperdimensional vector computing.
 
 📊 Here's a quick overview of my activity:
 
-- 🔧 Most used language: TypeScript
+- 🔧 Most used language: TypeScript, Java, Python
 - 💻 I'm currently working on exciting personal projects!
 - 📚 I'm constantly learning and exploring new technologies.
 
