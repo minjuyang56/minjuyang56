@@ -7,13 +7,6 @@ I'm a <strong style="font-size: larger;">software engineer</strong> with a passi
 
 My past Github is <a href="https://github.com/alswn0558"> https://github.com/alswn0558 </a> 
 </br>
-
-🚀 I developed my passion by working on a variety of tasks, including </br>
-👉 Backend development</br>
-👉 AWS pipeline construction</br>
-👉 smart contracts</br>
-👉 AI Modeling</br>
-
 🚀 I have ~</br>
 👉 Bachelor of Computer Science</br>
 👉 3 Different Internship</br>
