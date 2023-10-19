@@ -8,17 +8,17 @@ I'm a <strong style="font-size: larger;">software engineer</strong> with a passi
 My past Github is <a href="https://github.com/alswn0558"> https://github.com/alswn0558 </a> 
 </br>
 
-🚀 I developed my passion by working on a variety of tasks, including 
-👉 Backend development
-👉 AWS pipeline construction
-👉 smart contracts
-👉 AI Modeling
+🚀 I developed my passion by working on a variety of tasks, including </br>
+👉 Backend development</br>
+👉 AWS pipeline construction</br>
+👉 smart contracts</br>
+👉 AI Modeling</br>
 
-🚀 I have ~
-👉 Bachelor of Computer Science
-👉 3 Different Internship
-👉 2 years of Programing Instructor
-👉 UC Irvine Exchange Fellowship student researcher 
+🚀 I have ~</br>
+👉 Bachelor of Computer Science</br>
+👉 3 Different Internship</br>
+👉 2 years of Programing Instructor</br>
+👉 UC Irvine Exchange Fellowship student researcher</br> 
 
 📊 Here's a quick overview of my activity:
 
