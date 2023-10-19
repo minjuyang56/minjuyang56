@@ -6,6 +6,8 @@
 I'm a <strong style="font-size: larger;">software engineer</strong> with a passion for creating innovative solutions. 
 
 My past Github is <a href="https://github.com/alswn0558"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> 
+
+
 🚀 My main focus is backend development using Node.js.
 
 📊 Here's a quick overview of my activity:
