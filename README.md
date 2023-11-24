@@ -10,7 +10,7 @@ My past Github is <a href="https://github.com/alswn0558"> https://github.com/als
 
 🚀 I have ~</br>
 - 💻 Bachelor of Computer Science</br>
-- 🌆 3 Different Internship</br>
+- 🌆 3 Different Internships</br>
 - 🧑‍🏫 3 years of Programing Instructor</br>
 - 📚 UC Irvine Exchange Fellowship student researcher</br>
 
