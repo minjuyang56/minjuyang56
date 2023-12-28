@@ -18,7 +18,7 @@ My past Github is <a href="https://github.com/alswn0558"> https://github.com/als
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswn0558@gmail.com)](https://github.com/anuraghazra/github-readme-stats)****
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuyang56)](https://github.com/anuraghazra/github-readme-stats)****
 
 
 Feel free to explore my repositories and reach out if you want to collaborate or discuss anything tech-related. 😄
