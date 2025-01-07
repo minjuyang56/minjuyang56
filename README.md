@@ -8,13 +8,7 @@ I'm a <strong style="font-size: larger;">software engineer</strong> with a passi
 My past Github is <a href="https://github.com/alswn0558"> https://github.com/alswn0558 </a> 
 </br>
 
-🚀 I have ~</br>
-- 💻 Bachelor of Computer Science</br>
-- 🌆 3 Different Internships</br>
-- 🧑‍🏫 3 years of Programing Instructor</br>
-- 📚 UC Irvine Exchange Fellowship student researcher</br>
 
-- 🔧 Most used language: TypeScript, Java, Python
 
 
 
