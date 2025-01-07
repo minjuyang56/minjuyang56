@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alswn0558@gmail.com)](mailto:alswn0558@gmail.com)
 	
 
-I'm a <strong style="font-size: larger;">software engineer</strong> with a passion for creating innovative solutions. 
+I'm a <strong style="font-size: larger;">Engineer</strong> with a passion for creating innovative solutions. 
 
 My past Github is <a href="https://github.com/alswn0558"> https://github.com/alswn0558 </a> 
 </br>
